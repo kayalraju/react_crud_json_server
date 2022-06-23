@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "name": "Raju kayal",
+      "email": "raju@gmail.com",
+      "phone": "9966968952",
+      "city": "kolkata",
+      "id": 1
+    },
+    {
+      "name": "Abanti",
+      "email": "abanti@gmail.com",
+      "phone": "1234567890",
+      "city": "garia",
+      "id": 2
+    }
+  ]
+}
